@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.0/gurl_1.0.0_windows_amd64.tar.gz",
+            "bin": [
+                "gurl.exe"
+            ],
+            "hash": "1820bb3c88865c2b78fd7947e520d518ce86fb6bee5777789c32d6beaf308c86"
+        },
+        "arm64": {
+            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.0/gurl_1.0.0_windows_arm64.tar.gz",
+            "bin": [
+                "gurl.exe"
+            ],
+            "hash": "bf290608bf8fff56ebc44874c8e9dd5e039ec71cb72f3a8a03b916d690056fe4"
+        }
+    },
+    "homepage": "https://github.com/geekyharsh05/gurl",
+    "license": "MIT",
+    "description": "Modern HTTP client CLI with JSON support"
+}
