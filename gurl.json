@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.0/gurl_1.0.0_windows_amd64.tar.gz",
+            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.1/gurl_1.0.1_windows_amd64.zip",
             "bin": [
                 "gurl.exe"
             ],
-            "hash": "1820bb3c88865c2b78fd7947e520d518ce86fb6bee5777789c32d6beaf308c86"
+            "hash": "cff6cc33c7b9f92fd75e2dfd025f91b925f7f10e29bfe571d3e9cb3a6534dbfd"
         },
         "arm64": {
-            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.0/gurl_1.0.0_windows_arm64.tar.gz",
+            "url": "https://github.com/geekyharsh05/gurl/releases/download/v1.0.1/gurl_1.0.1_windows_arm64.zip",
             "bin": [
                 "gurl.exe"
             ],
-            "hash": "bf290608bf8fff56ebc44874c8e9dd5e039ec71cb72f3a8a03b916d690056fe4"
+            "hash": "37a2302051b1404aed8095a412142cac49f57eae8f78629593df83290269141e"
         }
     },
     "homepage": "https://github.com/geekyharsh05/gurl",
